@@ -56,15 +56,12 @@ img{
 .inl{
   font-size:20px;
   color:white;
-  display:inline;
 }
 p{
   margin:0px;
   padding:0px;
   display:inline;
 }
-span{
-  display:inline;
 }
 #weather{
   text-align:15px;
