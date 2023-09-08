@@ -18,6 +18,11 @@ button{
   border-radius:50%;
   
 }
+input{
+  color:white;
+  height:30px;
+  margin-left: 30px;
+  border-radius:30px;
 #out{
   background:url("top2.txt");
   margin-left:40px;
