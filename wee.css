@@ -33,11 +33,11 @@ input{
   height:420px;
   border:2px solid black;
 }
-#search{
-  margin-top:10px;
-  display:flex;
-  align-items:center;
-  justify-content: space-evenly;
+
+#img{
+  margin-top:20px;
+  position:relative;
+  margin-left:15%;
 }
 
 
