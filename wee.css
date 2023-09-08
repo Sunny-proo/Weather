@@ -46,4 +46,13 @@ input{
   align-items: center;
   justify-content: space-evenly;
 }
-
+.inl{
+  font-size:20px;
+  color:white;
+  display:inline;
+}
+p{
+  margin:0px;
+  padding:0px;
+  display:inline;
+}
